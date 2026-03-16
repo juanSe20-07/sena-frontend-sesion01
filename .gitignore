@@ -1,0 +1,12 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dependencias (se reinstalan con npm install)
+node_modules/
+
+# Variables de entorno y claves
+.env
+
+# Configuración del editor (opcional)
+.vscode/
